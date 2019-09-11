@@ -40,10 +40,6 @@ $ brew bundle
 ## 터미널
 - [iTerm2](https://www.iterm2.com/)
 - iTerm2 Color Scheme - [Snazzy](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/Snazzy.itermcolors)
-- zsh
-```bash
-$ chsh -s `which zsh`
-```
 - oh-my-zsh
 ```bash
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
