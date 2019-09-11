@@ -21,7 +21,7 @@ brew "zsh"
 
 # brew cask install
 cask "iterm2"
-cask "postman"
+# cask "postman"
 cask "visual-studio-code"
 cask "pycharm"
 cask "zeplin"
