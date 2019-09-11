@@ -47,4 +47,3 @@ mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
 mas "Hancom Office HWP 2014 VP Viewer", id: 416746898
 mas "Spark", id: 1176895641
-mas "Checker", id: 1238750814
