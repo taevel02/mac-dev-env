@@ -26,7 +26,7 @@ Personal Mac OS SetUp
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ git clone git@github.com:taevel02/mac-setup.git
-$ cd mac-dev-env
+$ cd mac-setup
 $ brew bundle
 ```
 
