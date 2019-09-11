@@ -36,6 +36,7 @@ cask "iina"
 cask "caprine"
 cask "typora"
 cask "adobe-creative-cloud"
+cask "spotify"
 
 # mas install
 mas "Magnet", id: 441258766
