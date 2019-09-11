@@ -19,6 +19,9 @@ Personal Mac OS SetUp
 
 [한영전환키 caps lock으로 변경](https://extrememanual.net/12068)
 
+- Dock 크기 - Small, Medium 사이
+- 디스플레이 크기 - 1680 * 1050
+
 #### Homebrew를 이용한 프로그램 설치
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
