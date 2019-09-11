@@ -82,7 +82,6 @@ $ yarn global add create-react-app
 - HTTPS Everywhere
 - Naver Cafe Free Pass
 - Notion Web Clipper
-- uVPN - free and unlimited VPN for everyone
 
 ## Visual Studio Code Setting
 - [setting-sync](https://gist.github.com/taevel02/565a51aaf3ed1820faaa25e6cfc11518)
