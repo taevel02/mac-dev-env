@@ -18,6 +18,7 @@ brew "mysql"
 brew "node"
 brew "n"
 brew "zsh"
+brew "python3"
 
 # brew cask install
 cask "iterm2"
