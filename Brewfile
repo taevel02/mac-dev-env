@@ -38,6 +38,7 @@ cask "caprine"
 cask "typora"
 cask "adobe-creative-cloud"
 cask "spotify"
+cask "discord"
 
 # mas install
 mas "Magnet", id: 441258766
