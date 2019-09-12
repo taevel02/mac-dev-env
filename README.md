@@ -58,6 +58,7 @@ alias pip=pip3
 $ git config --global user.name "taevel02"
 $ git config --global user.email "taevel02@gmail.com"
 ```
+- [zsh plugin](https://heetop.blogspot.com/2017/10/oh-my-zsh_12.html)
 
 ## 언어
 - vue cli
