@@ -69,7 +69,6 @@ $ yarn global add create-react-app
 ## 프로그램 직접 설치
 - Adobe Photoshop CC, Lightroom CC, XD
 - Microsoft Office - PowerPoint, Excel, Word
-- [uTorrent](https://www.utorrent.com)
 
 ## 크롬 확장 프로그램
 - AdBlock
