@@ -72,7 +72,7 @@ $ yarn global add create-react-app
 - Microsoft Office - PowerPoint, Excel, Word
 
 ## 크롬 확장 프로그램
-- AdBlock
+- AdGuard AdBlocker
 - ColorPick Eyedropper
 - Full Page Screen Captur
 - HTTPS Everywhere
