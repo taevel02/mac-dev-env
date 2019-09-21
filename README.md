@@ -25,7 +25,7 @@ Personal Mac OS SetUp
 #### Homebrew를 이용한 프로그램 설치
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ git clone git@github.com:taevel02/mac-setup.git
+$ git clone https://github.com/taevel02/mac-setup.git
 $ cd mac-setup
 $ brew bundle
 ```
