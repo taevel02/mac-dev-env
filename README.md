@@ -67,6 +67,13 @@ $ yarn global add @vue/cli
 $ yarn global add create-react-app
 ```
 
+## SSH 설정
+```bash
+$ ssh-keygen -t rsa -C "git" -b 4096
+$ cat ~/.ssh/id_rsa.pub
+```
+ssh값 확인하여 github, gitlab ssh 
+
 ## 프로그램 직접 설치
 - Adobe Photoshop CC, Lightroom CC, XD
 - Microsoft Office - PowerPoint, Excel, Word
