@@ -40,6 +40,7 @@ cask "adobe-creative-cloud"
 cask "spotify"
 cask "discord"
 cask "qbittorrent"
+cask "wineskin-winery"
 
 # mas install
 mas "Magnet", id: 441258766
@@ -47,5 +48,4 @@ mas "KakaoTalk", id: 869223134
 mas "Hotspot Shield", id: 771076721
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
-mas "Hancom Office HWP 2014 VP Viewer", id: 416746898
 mas "Spark", id: 1176895641
