@@ -81,10 +81,12 @@ ssh값 확인하여 github, gitlab ssh
 ## 크롬 확장 프로그램
 - AdGuard AdBlocker
 - ColorPick Eyedropper
-- Full Page Screen Captur
 - HTTPS Everywhere
-- Naver Cafe Free Pass
 - Notion Web Clipper
+
+## 사파리 확장 프로그램
+- iina
+- unicorn adblock
 
 ## Visual Studio Code Setting
 - [setting-sync](https://gist.github.com/taevel02/565a51aaf3ed1820faaa25e6cfc11518)
