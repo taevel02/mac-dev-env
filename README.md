@@ -54,7 +54,7 @@ $ cat ~/.ssh/id_rsa.pub
 ssh값 확인하여 github, gitlab ssh 
 
 ## 프로그램
-- VSCode, Xcode, iTerm, Postman, Studio 3T
+- VSCode, Xcode, iTerm, Postman, Robo 3T
 - Notion, Keynote, Pages, Numbers, PowerPoint, Docs, Excel, HancomViewer
 - KaKaoTalk, Slack, Spark
 - AppCleaner, Keka, Magnet, IINA, HiddenBar, eul, Unicorn Blocker, Grammarly in Safari
