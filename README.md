@@ -13,14 +13,13 @@ Personal Mac OS SetUp
 - 소프트웨어 업데이트
 - Finder 윈도우 정렬
 - 게이트키퍼 끄기
-- 시스템 아이콘 표시
 - 트랙패드 설정
 - Finder 환경설정
 
 [한영전환키 caps lock으로 변경](https://extrememanual.net/12068)
 
 - Dock 크기 - Small, Medium 사이
-- 디스플레이 크기 - 1680 * 1050
+- 디스플레이 크기 - default
 
 #### Homebrew를 이용한 프로그램 설치
 ```bash
@@ -34,8 +33,9 @@ $ brew bundle
 - [FiraCode](https://github.com/tonsky/FiraCode)
 - [Noto Sans](https://www.google.com/get/noto/#sans-lgc)
 - [Noto Sans CJK KR](https://www.google.com/get/noto/#sans-kore)
-- [Spoqa Han Sans](https://spoqa.github.io/spoqa-han-sans)
+- [Spoqa Han Sans Neo](https://spoqa.github.io/spoqa-han-sans)
 - [Nanum](https://hangeul.naver.com/2017/nanum)
+- [Pretendard](https://cactus.tistory.com/306)
 
 ## 터미널
 - [iTerm2](https://www.iterm2.com/)
@@ -44,28 +44,7 @@ $ brew bundle
 ```bash
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
-- zsh-theme - [Pure](https://github.com/sindresorhus/pure)
-- ~/.zshrc
-```
-alias python=python3
-alias pip=pip3
-```
-
-## 커맨드라인 인터페이스 도구
-- [n](https://github.com/tj/n) - 노드 버전 관리
-- git
-```bash
-$ git config --global user.name "taevel02"
-$ git config --global user.email "taevel02@gmail.com"
-```
-- [zsh plugin](https://heetop.blogspot.com/2017/10/oh-my-zsh_12.html)
-
-## 언어
-- vue cli
-```bash
-$ yarn global add @vue/cli
-$ yarn global add create-react-app
-```
+- [개발 환경 기초 세팅](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 
 ## SSH 설정
 ```bash
@@ -74,19 +53,12 @@ $ cat ~/.ssh/id_rsa.pub
 ```
 ssh값 확인하여 github, gitlab ssh 
 
-## 프로그램 직접 설치
-- Adobe Photoshop CC, Lightroom CC, XD
-- Microsoft Office - PowerPoint, Excel, Word
-
-## 크롬 확장 프로그램
-- AdGuard AdBlocker
-- ColorPick Eyedropper
-- HTTPS Everywhere
-- Notion Web Clipper
-
-## 사파리 확장 프로그램
-- iina
-- unicorn adblock
+## 프로그램
+- VSCode, Xcode, iTerm, Postman, Studio 3T
+- Notion, Keynote, Pages, Numbers, PowerPoint, Docs, Excel, HancomViewer
+- KaKaoTalk, Slack, Spark
+- AppCleaner, Keka, Magnet, IINA, HiddenBar, eul, Unicorn Blocker, Grammarly in Safari
+- Chrome
 
 ## Visual Studio Code Setting
 - [setting-sync](https://gist.github.com/taevel02/565a51aaf3ed1820faaa25e6cfc11518)
